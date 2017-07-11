@@ -13,6 +13,7 @@ sudo apt-get install php5 -y
 sudo apt-get install libapache2-mod-php5 -y
 sudo apt-get install php5-mcrypt -y
 sudo apt-get install wget -y
+sudo chmod 777 /var/www/html
 
 
 
